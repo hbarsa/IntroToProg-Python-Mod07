@@ -28,6 +28,7 @@ my_unpickled_object = pickle.loads(my_pickled_object) #unpickle back to Python o
 *Figure 2: Unpickle Data*  
 
 The pickled data is illegible. See Figure 3 for an example of a pickled byte string.
+
 ![Pickled Byte String](https://github.com/hbarsa/IntroToProg-Python-Mod07/blob/main/docs/byte%20string.png "Pickled Byte String")  
 *Figure 3: Pickled Byte String*
 
@@ -58,7 +59,7 @@ except ValueError as e:
 ## Pickle Demonstration
 The code demonstrates how a pickled object cannot be changed but a non-pickled object can. See screenshot in Figure 6 of the program running. 
 
-
+![Script Running from Pycharm](https://github.com/hbarsa/IntroToProg-Python-Mod07/blob/main/docs/pycharm.png "Script Running from Pycharm")  
 *Figure 6: Script Running From PyCharm*
 
 Figure 7 below shows the script working in a shell window.
