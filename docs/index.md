@@ -71,3 +71,5 @@ Figure 7 below shows the script working in a shell window.
 ## Summary
 This assignment provides the opportunity to research pickling and error handling. Both can be very useful for working with collections of data. A very simple example of pickling different data types is demonstrated. Error handling is added to guide the user in inputting the desired data for the demonstration. 
 
+**Link to Website: https://hbarsa.github.io/IntroToProg-Python-Mod07/**
+
