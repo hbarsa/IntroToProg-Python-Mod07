@@ -28,7 +28,7 @@ my_unpickled_object = pickle.loads(my_pickled_object) #unpickle back to Python o
 *Figure 2: Unpickle Data*  
 
 The pickled data is illegible. See Figure 3 for an example of a pickled byte string.
-
+![Pickled Byte String](https://github.com/hbarsa/IntroToProg-Python-Mod07/blob/main/docs/byte%20string.png "Pickled Byte String")  
 *Figure 3: Pickled Byte String*
 
 ## Structured Error Handling
