@@ -64,6 +64,7 @@ The code demonstrates how a pickled object cannot be changed but a non-pickled o
 
 Figure 7 below shows the script working in a shell window.
 
+![Script Running From a Shell Window](https://github.com/hbarsa/IntroToProg-Python-Mod07/blob/main/docs/shell.png "Script Running From a Shell Window")  
 *Figure 7: Script Running From a Shell Window*
 
 ## Summary
