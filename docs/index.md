@@ -60,6 +60,7 @@ except ValueError as e:
 The code demonstrates how a pickled object cannot be changed but a non-pickled object can. See screenshot in Figure 6 of the program running. 
 
 ![Script Running from Pycharm](https://github.com/hbarsa/IntroToProg-Python-Mod07/blob/main/docs/pycharm.png "Script Running from Pycharm")  
+![Script Running from Pycharm](pycharm.png "Script Running from Pycharm")  
 *Figure 6: Script Running From PyCharm*
 
 Figure 7 below shows the script working in a shell window.
